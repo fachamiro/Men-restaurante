@@ -2,3 +2,5 @@ html {background-color:lightgrey;}
 h1 {color:darkblue;}
 p {color: darkgray;}
 h2 {color: darkcyan;}
+a:hover {background-color: aquamarine;}
+a:active {background-color: rgb(224, 91, 213);}
