@@ -1,6 +1,12 @@
-html {background-color:lightgrey;}
+html {background-color:lightgrey;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: medium;}
 h1 {color:darkblue;}
-p {color: darkgray;}
+p {color: darkgray;
+text-align: center;}
 h2 {color: darkcyan;}
+a {font-size: larger;}
+a:link {color: darkgrey;}
+a:visited {color: darkgreen;}
 a:hover {background-color: aquamarine;}
 a:active {background-color: rgb(224, 91, 213);}
