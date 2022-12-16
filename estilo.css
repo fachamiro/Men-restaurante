@@ -1,12 +1,42 @@
-html {background-color:lightgrey;
-font-family: Verdana, Geneva, Tahoma, sans-serif;
-font-size: medium;}
-h1 {color:darkblue;}
-p {color: darkgray;
-text-align: center;}
-h2 {color: darkcyan;}
-a {font-size: larger;}
-a:link {color: darkgrey;}
-a:visited {color: darkgreen;}
-a:hover {background-color: aquamarine;}
-a:active {background-color: rgb(224, 91, 213);}
+html {
+    background-color: lightgrey;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+}
+
+h1 {
+    color: darkblue;
+}
+
+div {
+    text-align: center;
+}
+
+p {
+    color: rgb(31, 13, 71);
+    text-align: center;
+}
+
+h2 {
+    color: darkcyan;
+}
+
+a {
+    font-size: larger;
+}
+
+a:link {
+    color: rgb(31, 13, 71);
+}
+
+a:visited {
+    color: darkgreen;
+}
+
+a:hover {
+    background-color: aquamarine;
+}
+
+a:active {
+    background-color: rgb(224, 91, 213);
+}
